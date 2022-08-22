@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xBra3d3n
-- 👀 I’m interested in System Administation and Red Team
-- 🌱 I’m currently learning Offensive Security
+- 👀 I’m interested in System Administation and Red Team Operations
+- 🌱 I’m currently learning Offensive Security and Red Team Operations
 - 📫 How to reach me quiziy.business@gmail.com
 
 <!---
