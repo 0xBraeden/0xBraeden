@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xBra3d3n
 - 👀 I’m interested in System Administation and Programing
-- 🌱 I’m currently learning Python and C# Programing
+- 🌱 I’m currently learning HTML, CSS, and C# Programing
 - 📫 How to reach me 0xBra3d3n@protonmail.com
 
 <!---
