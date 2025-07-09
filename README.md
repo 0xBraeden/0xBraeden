@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @0xBra3d3n
-- 👀 I’m interested in System Administation and Programing
-- 🌱 I’m currently learning Python and C# Development
+- 👋 Hi, I’m Braeden
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Computer Science (React, C#, Kotlin)
 - 📫 How to reach me braeden@0xbraeden.com
 
 <!---
