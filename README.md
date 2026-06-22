@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Braeden
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Computer Science (React, C#, Kotlin)
+- 🌱 I’m currently learning the developmental pipeline for a personal website!
 - 📫 How to reach me braeden@0xbraeden.com
 
 <!---
