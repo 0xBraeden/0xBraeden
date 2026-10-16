@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Braeden
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning the developmental pipeline for a personal website!
+- 🌱 I'm currently learning the developmental process at a local college in the Cleveland, Ohio area!
 - 📫 How to reach me braeden@0xbraeden.com
 
 <!---
